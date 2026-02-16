@@ -1,11 +1,11 @@
 <div align="center">
 
-# Gabriel Henrique da Silva  
+<p>Curriculum Vitae</p>
 
 | About | [Projetos](https://exemplo.com) | [Certificados](https://exemplo.com) | [Skills](https://exemplo.com) 
 |---|---|---|---|
 
-<p>Curriculum Vitae</p>
+# Gabriel Henrique da Silva  
 
 </div>
 
