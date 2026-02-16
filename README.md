@@ -3,9 +3,10 @@
 | Sobre | [Projetos](https://exemplo.com) | [Certificados](https://exemplo.com) | [Skills](https://exemplo.com) 
 |---|---|---|---|
 
+![Local image](./images/example.png)
+
 # Gabriel Henrique da Silva  
 
-![Local image](./images/example.png)
 
 </div>
 
