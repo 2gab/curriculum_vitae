@@ -1,6 +1,6 @@
 <div align="center">
 
-| About | [Projetos](https://exemplo.com) | [Certificados](https://exemplo.com) | [Skills](https://exemplo.com) 
+| Sobre | [Projetos](https://exemplo.com) | [Certificados](https://exemplo.com) | [Skills](https://exemplo.com) 
 |---|---|---|---|
 
 # Gabriel Henrique da Silva  
