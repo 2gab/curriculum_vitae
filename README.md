@@ -1,7 +1,7 @@
 <div align="center">
 
-| Sobre | [Projetos](https://exemplo.com) | [Certificados](https://exemplo.com) | [Habilidades](https://exemplo.com) | [Anotações](https://github.com/2gab/anotacoes) | [🌐 EN<i class="bi bi-translate"></i>](https://github.com/2gab/anotacoes)
-|---|---|---|---|---|
+| Sobre | [Projetos](https://exemplo.com) | [Certificados](https://exemplo.com) | [Habilidades](https://exemplo.com) | [Anotações](https://github.com/2gab/anotacoes) | [🌐 EN](https://github.com/2gab/anotacoes)
+|---|---|---|---|---|---|
 
 ![Local image](./images/example.png)
 
