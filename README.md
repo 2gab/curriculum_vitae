@@ -1,6 +1,6 @@
 <div align="center">
 
-| Sobre | [Projetos](https://exemplo.com) | [Certificados](https://exemplo.com) | [Habilidades](https://exemplo.com) | [Caderno](https://exemplo.com) 
+| Sobre | [Projetos](https://exemplo.com) | [Certificados](https://exemplo.com) | [Habilidades](https://exemplo.com) | [Caderno](https://github.com/2gab/caderno/blob/main/README.md) 
 |---|---|---|---|---|
 
 ![Local image](./images/example.png)
